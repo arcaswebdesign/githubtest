@@ -7,6 +7,8 @@ Stable tag: 1.9
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
+++ edited by simon@arcas.co.uk
+
 Our 2019 default theme is designed to show off the power of the block editor.
 
 == Description ==
